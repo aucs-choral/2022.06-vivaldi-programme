@@ -132,7 +132,7 @@ ol {
 a {
   /* color: inherit; */
   color: #c477dd;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 table {

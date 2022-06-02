@@ -8,6 +8,8 @@ title: "Adelaide University Choral Society presents"
 
 **Peter Kelsall**, Conductor and Musical Director
 
+**Andrew Moschou**, Organist
+
 **Riana Chakravarti**, Alto
 
 **Suzanne Wilson**, Soprano
