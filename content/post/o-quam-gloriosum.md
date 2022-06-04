@@ -6,11 +6,6 @@ layout: piece
 weight: 4
 ---
 
-*Sicut cervus desiderat at fontes aquarum.*
+*O quam gloriosum est regnum, in quo cum Christo gaudent omnes Sancti! Amicti stolis albis, sequuntur Agnum, quocumque ierit.*
 
-O, how glorious is the kingdom,
-in which all the saints rejoice with Christ!
-Arrayed in white robes,
-they follow the Lamb, wherever He goes.
-
-<!--more-->
+O, how glorious is the kingdom, in which all the saints rejoice with Christ! Arrayed in white robes, they follow the Lamb, wherever He goes.

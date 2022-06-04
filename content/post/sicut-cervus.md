@@ -9,5 +9,3 @@ weight: 2
 *Sicut cervus desiderat at fontes aquarum.*
 
 Like as the hart desireth the waterbrooks, so longeth my soul after Thee, o Lord.
-
-<!--more-->

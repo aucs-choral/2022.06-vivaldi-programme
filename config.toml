@@ -26,16 +26,22 @@ theme = "paper"
 [menu]
 
   [[menu.main]]
-    identifier = "aboutPerformers"
-    name = "About the performers"
-    url = "/about/"
-    weight = 10
-
-  [[menu.main]]
     identifier = "aboutChoir"
     name = "About the choir"
     url = "/choir/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "aboutPerformers"
+    name = "About the performers"
+    url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "supportingAUCS"
+    name = "Supporting AUCS"
+    url = "/support/"
+    weight = 30
 
 [taxonomies]
 category = "categories"
