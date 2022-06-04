@@ -7,6 +7,10 @@ title: About the choir
 
 AUCS is a student club affiliated with the Adelaide University Union, founded in 1960. University of Adelaide staff and alumni also sing with the choir. We typically perform two classical concerts per year as well as a contemporary Fringe show. We have performed works from the 1500s to contemporary compositions, including motets and madrigals, masses and songs for the masses.
 
+**You can further support AUCS by donating, tax-free, to the [Australian Intervarsity Choral Societies Association's fundraiser](https://donations.australianculturalfund.org.au/s/project/a2E9q0000006IgFEAU/aicsa-university-choirs-eofy-2022-fundraiser). In the comments section, please ask them to direct your donation to AUCS.**
+
+&nbsp;
+
 ### Soprano
 Olivia Arcangeli
 <br />Ila Frishling
