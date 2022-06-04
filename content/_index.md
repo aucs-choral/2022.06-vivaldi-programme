@@ -12,7 +12,7 @@ title: "Adelaide University Choral Society presents"
 
 **Riana Chakravarti**, Alto
 
-**Suzanne Wilson**, Soprano
+**Suzanne Pederson**, Soprano
 
 **Megan Fishers**, Soprano
 

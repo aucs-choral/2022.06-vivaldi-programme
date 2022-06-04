@@ -26,9 +26,15 @@ theme = "paper"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
+    identifier = "aboutPerformers"
     name = "About the performers"
     url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "aboutChoir"
+    name = "About the choir"
+    url = "/choir/"
     weight = 10
 
 [taxonomies]

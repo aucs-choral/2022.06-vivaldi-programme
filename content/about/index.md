@@ -1,26 +1,32 @@
 ---
 title: About the performers
 ---
-
-## Adelaide University Choral Society
-
-![AUCS](https://scontent.fadl6-1.fna.fbcdn.net/v/t31.18172-8/28336150_1843217812386005_5566563141109707439_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=HcIckBwO4igAX9A27ns&_nc_ht=scontent.fadl6-1.fna&oh=00_AT8QFI4KcCYnlJif3Ur066YJ1mQzvSnEqtn42nDXwl4fBQ&oe=62BDC4D3)
-
-AUCS is a student club affiliated with the Adelaide University Union, founded in 1960. University of Adelaide staff and alumni also sing with the choir. We typically perform two classical concerts per year as well as a contemporary Fringe show. We have performed works from the 1500s to contemporary compositions, including motets and madrigals, masses and songs for the masses.
-
 ## Peter Kelsall
 *Conductor & Musical Director*
 
-![Peter Kelsall](https://pbs.twimg.com/profile_images/1092453930401968129/xn0CkJT6_400x400.jpg)
+![Peter Kelsall](peter.jpg)
 
-Peter is reasonably reasonable.
+Peter Kelsall completed his Bachelor of Music degree in 1989 at Adelaide University studying piano with Zelda Bock. He commenced organ studies with Christa Rumsey in 1987 and completed a Graduate Diploma in Performance on the instrument in 1993. In 1998 he completed his Masters Degree in Music Theory. He also holds a Certificate in Church Music from the Flinders Street School of Music TAFE and has undertaken studies in choral conducting with Carl Crossin.
+
+As an organist Peter has given recitals in the Adelaide Town Hall, St. Peter’s Cathedral, Pilgrim Church and at various locations for the Organ Music Society of Adelaide for which he was a committee member for a number of years. He has played with the Adelaide Symphony Orchestra on many occasions over the last 20 years, including performances of Saint Saens’ ‘Organ’ Symphony, Holst’s Planets, Handel’s Messiah, Mahler’s Symphony no. 2, the 2010 Adelaide Festival performances of Ligeti’s opera Le Grande Macabre, Mahler’s Symphony no. 8 and the 2020  Adelaide Festival performances of Mozart’s Requiem. 
+
+Peter has performed with many Adelaide choirs, including the Adelaide Chamber Singers, Syntony, Adelaide Philharmonia Chorus, Graduate Singers, Corinthian Singers, Elder Conservatorium Chorale, Kapelle Singers and the Adelaide and Flinders Universities Choral Societies.
+
+In 1995 he was appointed Organist and Choir Director at Pilgrim Uniting Church in the city where he continues to build on this church’s strong musical tradition. In the mid 2000s Pilgrim established a tradition of ‘importing’ some of the world’s best organists to Adelaide to play for services and to give recitals on the church’s organ (South Australia’s largest). As a result of this initiative Peter has had the opportunity in recent years to work with highly distinguished organists including Thomas Trotter, David Goode, Benjamin Bayl, Benjamin Sheen, Clive Driskill-Smith, Simon Preston, John Scott, Daniel Roth and Olivier Latry.
+
+In December 2017 and January 2018 Peter directed the Choirs of Pilgrim Church and Christ Church North Adelaide on their English Cathedrals Tour. The Choirs sang Evensongs in some 10 English cathedrals, including Lincoln, Durham, Salisbury, Winchester, Gloucester and York Minster. He will be conducting the Choir of Pilgrim Church on a further tour of the UK in 2022/23.
+
+An honorary life member of the Adelaide University Choral Society, he has been their Musical Director since 1997. With AUCS he has conducted a wide range of repertoire, from Palestrina to Pink Floyd and most things in between. In January 2019 Peter directed the acclaimed ‘Northern Lights’ concert for the Australian Intervarsity Choral Festival held in Adelaide.
+
+Peter is in demand as an accompanist and has been associated with a number of choirs in this capacity. He also teaches piano, organ, and music theory and works as an accompanist and music tutor at Walford Anglican School.
+
 
 ## Andrew Moschou
 *Organist*
 
-![Andrew Moschou](https://media.npr.org/assets/img/2014/08/15/cameroncarpenter1-54a72884926a4e03bdd750643ff66c33e59b3b26-s800-c85.webp)
+![Andrew Moschou](andrew.jpg)
 
-Like Cameron Carpenter, Andrew Moschou is an organist. Only with more hair and less organ.
+Andrew is a semi-professional musician with a background in piano, cello and orchestral music, having become an Associate of Music Australia (AMusA) in 2009. Since then, his musical focus migrated towards choral music, performing as a chorister with AUCS and the Graduate Singers of Adelaide as well as directing and conducting community groups including the Anglican Parish of Lockleys and the Flinders University Choral Society. In non-musician life, he is a teacher at Hamilton Secondary College where he is involved in Space education and outreach programmes.
 
 ## Riana Chakravarti
 *Alto*
@@ -38,14 +44,15 @@ In their spare time, Riana is an arts administrator for Adelaide Choral Network 
 ## Megan Fishers
 *Soprano*
 
-![Riana Chakravarti](https://lifeasan.asker.net/wp-content/uploads/2018/08/minion-768x919.jpg)
+![Megan Fishers](megan.jpg)
 
-Megan is cool. She sings stuff.
+Having completed in 2016 a Bachelor of Classical Performance, Voice at the Elder Conservatorium under the tuition of Rosalind Martin, Megan has performed extensively, both as a chorister and soloist. Megan has worked with many choirs in Adelaide, including Adelaide Chamber Singers, Chorale, and Kapelle Singers. Currently she holds the Soprano Lay Clark position at Christ Church North Adelaide.
 
-## Suzanne Wilson
+
+## Suzanne Pederson
 *Soprano*
 
-![Suzanne Wilson](suzanne.jpg)
+![Suzanne Pederson](suzanne.jpg)
 
 Suzanne was a Special Music student at Brighton High School before gaining a B Mus (Perf) (Hons) at the Elder Conservatorium of Music under Jiri Tancibudek in 1987.  After a time as an oboist—ad hoc with Adelaide Symphony Orchestra, the State Opera Orchestra of SA and full-time with the Band of the South Australia Police—during which she also sang with Adelaide Chamber Singers, Corinthian Singers and Graduate Singers, Suzanne left Adelaide in 1991 to forge a career as a choral and Early Music specialist soprano in London. 
  

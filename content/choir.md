@@ -1,0 +1,45 @@
+---
+title: About the choir
+---
+## Adelaide University Choral Society
+
+![AUCS](https://scontent.fadl6-1.fna.fbcdn.net/v/t31.18172-8/28336150_1843217812386005_5566563141109707439_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=HcIckBwO4igAX9A27ns&_nc_ht=scontent.fadl6-1.fna&oh=00_AT8QFI4KcCYnlJif3Ur066YJ1mQzvSnEqtn42nDXwl4fBQ&oe=62BDC4D3)
+
+AUCS is a student club affiliated with the Adelaide University Union, founded in 1960. University of Adelaide staff and alumni also sing with the choir. We typically perform two classical concerts per year as well as a contemporary Fringe show. We have performed works from the 1500s to contemporary compositions, including motets and madrigals, masses and songs for the masses.
+
+### Soprano
+- Olivia Arcangeli
+- Ila Frishling
+- Louise Jackson
+- Phoebe Knight
+- Hunter Loch
+- Bethany Newhouse
+- Bethany Poel
+- Eleanor Packer
+- Zoe Russell-von Bjudoss
+
+### Alto
+- Lucy Brooke
+- Caitlin Hall
+- Barbara Kapust
+- Ying Le
+- Palma Neagle
+- Mikaela Sotiriou
+- Annette Wheatley
+- Rosemary Wong
+
+### Tenor
+- Lisa Buttery
+- Jiupeng Chen
+- Connor Fogarty
+- Eirean James
+- Philip Moxham
+- Amanda Muller
+
+### Bass
+- William Bai
+- Peter Brack
+- Yukun Chen
+- Simon Naylor
+- Bruce Swanson
+- Alistair Teagle
